@@ -1,0 +1,37 @@
+order_id,date,region,product,units,unit_price_usd,channel,notes
+ORD-1001,2026-01-05,North,Espresso Blend,120,18.50,Wholesale,Standing weekly order for cafe chain
+ORD-1002,2026-01-06,South,Single Origin Ethiopia,60,24.00,Wholesale,First order from new roastery client
+ORD-1003,2026-01-07,East,Decaf House Blend,85,16.75,Retail,Includes 10kg sample pack
+ORD-1004,2026-01-08,West,Cold Brew Concentrate,200,12.25,Wholesale,Bulk summer pre-order
+ORD-1005,2026-01-09,North,Single Origin Colombia,45,26.50,Retail,Limited micro-lot release
+ORD-1006,2026-01-12,South,Espresso Blend,150,18.50,Wholesale,Standing weekly order for cafe chain
+ORD-1007,2026-01-13,East,Cold Brew Concentrate,90,12.25,Retail,Office subscription restock
+ORD-1008,2026-01-14,West,Single Origin Ethiopia,75,24.00,Wholesale,Delayed two days by weather
+ORD-1009,2026-01-15,North,Decaf House Blend,110,16.75,Wholesale,Hospitality client quarterly top-up
+ORD-1010,2026-01-16,South,Cold Brew Concentrate,140,12.25,Wholesale,Bulk summer pre-order
+ORD-1011,2026-01-19,East,Single Origin Colombia,55,26.50,Retail,Limited micro-lot release
+ORD-1012,2026-01-20,West,Espresso Blend,180,18.50,Wholesale,Standing weekly order for cafe chain
+ORD-1013,2026-01-21,North,Single Origin Ethiopia,95,24.00,Retail,Weekend market stall supply
+ORD-1014,2026-01-22,South,Decaf House Blend,70,16.75,Wholesale,New hotel account onboarding
+ORD-1015,2026-01-23,East,Espresso Blend,130,18.50,Wholesale,Standing weekly order for cafe chain
+ORD-1016,2026-01-26,West,Single Origin Colombia,40,26.50,Retail,Limited micro-lot release
+ORD-1017,2026-01-27,North,Cold Brew Concentrate,160,12.25,Wholesale,Bulk summer pre-order
+ORD-1018,2026-01-28,South,Single Origin Ethiopia,80,24.00,Wholesale,First order from new roastery client
+ORD-1019,2026-01-29,East,Decaf House Blend,95,16.75,Retail,Office subscription restock
+ORD-1020,2026-01-30,West,Decaf House Blend,120,16.75,Wholesale,Hospitality client quarterly top-up
+ORD-1021,2026-02-02,North,Espresso Blend,140,18.50,Wholesale,Standing weekly order for cafe chain
+ORD-1022,2026-02-03,South,Single Origin Colombia,50,26.50,Retail,Limited micro-lot release
+ORD-1023,2026-02-04,East,Single Origin Ethiopia,65,24.00,Wholesale,Delayed two days by weather
+ORD-1024,2026-02-05,West,Cold Brew Concentrate,175,12.25,Wholesale,Bulk summer pre-order
+ORD-1025,2026-02-06,North,Single Origin Colombia,60,26.50,Retail,Limited micro-lot release
+ORD-1026,2026-02-09,South,Espresso Blend,165,18.50,Wholesale,Standing weekly order for cafe chain
+ORD-1027,2026-02-10,East,Cold Brew Concentrate,110,12.25,Retail,Office subscription restock
+ORD-1028,2026-02-11,West,Single Origin Ethiopia,85,24.00,Wholesale,First order from new roastery client
+ORD-1029,2026-02-12,North,Decaf House Blend,100,16.75,Wholesale,New hotel account onboarding
+ORD-1030,2026-02-13,South,Cold Brew Concentrate,125,12.25,Wholesale,Bulk summer pre-order
+ORD-1031,2026-02-16,East,Espresso Blend,145,18.50,Wholesale,Standing weekly order for cafe chain
+ORD-1032,2026-02-17,West,Single Origin Colombia,48,26.50,Retail,Limited micro-lot release
+ORD-1033,2026-02-18,North,Single Origin Ethiopia,105,24.00,Retail,Weekend market stall supply
+ORD-1034,2026-02-19,South,Decaf House Blend,78,16.75,Wholesale,Hospitality client quarterly top-up
+ORD-1035,2026-02-20,East,Single Origin Colombia,52,26.50,Retail,Limited micro-lot release
+ORD-1036,2026-02-23,West,Espresso Blend,190,18.50,Wholesale,Standing weekly order for cafe chain

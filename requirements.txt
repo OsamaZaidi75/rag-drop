@@ -1,0 +1,14 @@
+# RAGDrop dependencies (local dev + tests). The Docker image uses
+# requirements-docker.txt (same pins, minus pytest).
+fastapi>=0.110
+uvicorn==0.54.0
+pydantic==2.14.3
+pydantic-settings==2.16.3
+python-dotenv==1.2.4
+python-multipart==0.0.34
+openai>=1.30
+httpx==0.28.1
+numpy==2.5.5
+qdrant-client==1.20.0
+pypdf==7.1.0
+pytest>=8

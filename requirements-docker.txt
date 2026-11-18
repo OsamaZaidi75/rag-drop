@@ -1,0 +1,15 @@
+# Runtime-only dependencies for the Docker image (Dockerfile).
+# Same pins as requirements.txt, minus pytest (tests don't run in the
+# image). Keep the shared pins in sync with requirements.txt.
+# openai is needed twice over: LLM answers AND NVIDIA API embeddings.
+fastapi>=0.110
+uvicorn==0.54.0
+pydantic==2.14.3
+pydantic-settings==2.16.3
+python-dotenv==1.2.4
+python-multipart==0.0.34
+openai>=1.30
+httpx==0.28.1
+numpy==2.5.5
+qdrant-client==1.20.0
+pypdf==7.1.0
